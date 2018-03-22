@@ -16,3 +16,7 @@ This page -->
 <img src="https://www.imageupload.co.uk/images/2018/03/22/Screenshot_20180322-211229.png" width="100">
 
 Run the script and have fun.
+
+
+
+This is my first bot so it isn't the greatest and any suggestions would be great.
