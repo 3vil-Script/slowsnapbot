@@ -3,7 +3,7 @@ cd /c/adb
 #How many times you want it to loop
 for ((n=0;n<10;n++));
 do
-echo $ #loop number
+echo $n #loop number
 
 usernames=( "" )
 for element in ${usernames[@]}
