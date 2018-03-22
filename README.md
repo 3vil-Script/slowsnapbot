@@ -1,6 +1,8 @@
 # slowsnapbot
 
 How to use:
+I used Git bash to run the sh script on windows.
+You must have adb.
 Turn developer mode on and usb debugging, open SnapChat.
 
 
