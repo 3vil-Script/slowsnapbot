@@ -7,7 +7,7 @@ Turn developer mode on and usb debugging, open SnapChat.
 
 
 Friend_Adder.sh --> First make sure the coordinates are correct for your phone. (Goto developer options and enable pointer location        to check).
-Next go to Add friends on SnapCat and tap on the search bar then run the script. It will add all the usernames from the array.
+Next go to Add friends on SnapChat and tap on the search bar then run the script. It will add all the usernames from the array.
 
 SnapSender.sh --> First make sure the coordinates are correct for your phone.
 Goto the page where all your chats are shown and run the script.
